@@ -89,7 +89,9 @@ In main print,
     - Any Other printable symbols, return 4
     - Non printable symbols, return 5 
     ~~~
-# Day 2
+    
+~~~
+## Day 2
 
 Level-1:
 ~~~
